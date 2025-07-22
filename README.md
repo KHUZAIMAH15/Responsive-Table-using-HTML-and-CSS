@@ -1,1 +1,1 @@
-# Responsive-Table-using-HTML-and-CSS
+# Responsive-Table-HTML-CSS
